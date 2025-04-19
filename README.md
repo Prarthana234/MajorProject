@@ -60,15 +60,6 @@ here is a demo,
 * [Click here to run it live on server](https://book-recommendation45.herokuapp.com/)
 
 
-# Demo:
-
-<img src="demo/1.png" alt="workflow" width="70%">
-
-<img src="demo/2.png" alt="workflow" width="70%">
-
-<img src="demo/3.png" alt="workflow" width="70%">
-
-
 # Dataset has been used:
 
 * [Dataset link](https://www.kaggle.com/ra4u12/bookrecommendation)
@@ -124,6 +115,6 @@ streamlit run app.py
 ```
 
 
-`
+
 
 
